@@ -1,0 +1,10 @@
+{
+  "name": "ne",
+  "version": "1.0.0",
+  "description": "The embedded Neo4j Graph Database for Node.js.",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "neo4j-embedded": "0.3.2"
+  }
+}
