@@ -15,3 +15,6 @@ export JAVA_HOME=$(find $HOME/.linuxbrew/Cellar/jdk/ -mindepth 1 -maxdepth 1)
 # Install Node dependencies
 npm install
 ```
+
+Read about embedded Neo4j: https://github.com/joewhite86/node-neo4j-embedded
+Already done Neo4j import from Wikipedia: https://github.com/mirkonasato/graphipedia
