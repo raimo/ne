@@ -5,6 +5,7 @@
   "devDependencies": {
   },
   "dependencies": {
-    "neo4j-embedded": "0.3.2"
+    "neo4j-embedded": "0.3.2",
+    "async": ""
   }
 }
